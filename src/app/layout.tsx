@@ -6,7 +6,7 @@ const comfortaa = Comfortaa({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Liaa ChyannTiikkk",
-  description: "Liaa ChyannTiikkk",
+  description: "Selamat Ulang Tahunn ayangku yang cantikkk :)",
 };
 
 export default function RootLayout({
