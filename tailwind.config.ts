@@ -13,6 +13,21 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      keyframes: {
+        'move-cloud': {
+          '0%': { transform: 'translateX(-100%)' },
+          '100%': { transform: 'translateX(100%)' },
+        },
+        'move-cloud-bounce': {
+          '0%': { transform: 'translateX(-100%)' },
+          '50%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-100%)' },
+        },
+      },
+      animation: {
+        'move-cloud': 'move-cloud 30s linear infinite',
+        'move-cloud-bounce': 'move-cloud-bounce 30s linear infinite',
+      },
     },
   },
   plugins: [],
