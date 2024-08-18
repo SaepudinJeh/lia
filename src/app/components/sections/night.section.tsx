@@ -25,7 +25,7 @@ export default function NightSection() {
 
                     <Quote text='Aku engga sempurna seperti perempuan yang lain, aku banyak kurangnya. Aku engga pantes buatmu, kenapa engga nyari yang lain aja' gender='female' />
 
-                    <p>Itu katamu dan aku engga peduli, kata orang <span className='font-extrabold italic uppercase'>"Apabila suatu perkara itu telah sempurna makan akan keliatan kurangnya"</span> aku juga banyak kurangnya, itu hal bagus karena kamu aku jadi punya teman hidup.</p>
+                    <p>Itu katamu dan aku engga peduli, kata orang <span className='font-extrabold italic uppercase'>&quot;Apabila suatu perkara itu telah sempurna makan akan keliatan kurangnya&quot;</span> aku juga banyak kurangnya, itu hal bagus karena kamu aku jadi punya teman hidup.</p>
 
                     <p>Ketika ada didekatmu aku seperti anak kecil, bermain-main tanpa henti, tanpa ada pikiran apapun. Yang dipikirkan hanya ingin bersenang-senang.</p>
 
