@@ -29,11 +29,11 @@ export default function NightSection() {
 
                     <p>Ketika ada didekatmu aku seperti anak kecil, bermain-main tanpa henti, tanpa ada pikiran apapun. Yang dipikirkan hanya ingin bersenang-senang.</p>
 
-                    <p>Apa kamu juga merasakan apa yang aku rasakan?</p>
+                    <p>Kamu juga merasakannya kan apa yang aku rasain?</p>
 
-                    <p>Kalau iya kenapa kamu terus berfikir seperti itu?</p>
+                    <p>Kalau iya kenapa terus berfikir seperti itu?</p>
 
-                    <p>Apa kamu tidak bersenang-senang?</p>
+                    <p>Kamu engga bersenang-senang yahh?</p>
 
                     <div>
                         <Quote text='Aku juga engga berhak atas kamu, tapi nyatanya hatiku lebih berhak' gender='male' />
@@ -47,7 +47,7 @@ export default function NightSection() {
                 </div>
                 
                 <div className='py-96 text-[0.6rem]'>
-                    <p>Tidak ada masalah denganmu, yang jadi masalah ketika kamu adalah cowok</p>
+                    <p>Engga ada masalah sama kamu, yang jadi masalah ketika kamu adalah cowok</p>
                 </div>
 
                 <div className='py-96 text-[0.6rem]'>
