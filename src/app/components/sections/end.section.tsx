@@ -2,6 +2,7 @@ import { Icon } from "@iconify/react/dist/iconify.js";
 import Image from "next/image";
 
 import Master from "@/assets/master-vector.jpg";
+import Link from "next/link";
 
 export default function EndSection() {
     return (
@@ -17,6 +18,8 @@ export default function EndSection() {
                     <p>Aku engga tau doa apa yang cocok buat ayang, tapi aku pengen ayang jadi diri sendiri. Lakuin hal yang ayang sukai. Selalu berbakti sama orang tua, kalo berbakti sama aku gampang nyusul kalau udah bareng.</p>
 
                     <p className="my-5">SEMOGA DAN SEMOGANYA KAMU SAYANG</p>
+
+                    <Link href="https://bjirr.vercel.app/lya" target="_blank" className="text-[0.5rem]">Otww yang lain</Link>
                 </div>
             </div>
 
@@ -30,7 +33,6 @@ export default function EndSection() {
                             <p className="absolute left-3.5 top-10 text-black text-xs w-24">Luvv u yahh sayang..</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>
