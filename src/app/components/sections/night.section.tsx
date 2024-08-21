@@ -50,9 +50,9 @@ export default function NightSection() {
                     <p>Engga ada masalah sama kamu, yang jadi masalah ketika kamu adalah cowok</p>
                 </div>
 
-                <div className='py-96 text-[0.6rem]'>
+                {/* <div className='py-96 text-[0.6rem]'>
                     <p>Terima kasih karena kamu Asep punya teman baru</p>
-                </div>
+                </div> */}
             </div>
         </section>
     );
